@@ -9,7 +9,7 @@ An embedded system implementation of a differential-drive robotic vehicle operat
 
 ---
 
-## 📌 Executive Summary
+## 📌 Summary
 
 This project showcases the end-to-end electrical and software design of a wireless-controlled robotic vehicle. The system captures pulse-modulated 38 kHz infrared signals transmitted by a handheld controller, decodes the raw command frames, and maps them directly to physical differential steering dynamics and duty-cycle speed adjustments.
 
@@ -353,6 +353,17 @@ The vehicle uses differential steering logic where motion trajectory is governed
 | **Sharp Pivot Right** | $+v$ | $-v$ | Zero-radius clockwise spin |
 | **Steering Arc Left** | $0$ | $+v$ | Smooth curve around stationary left wheel |
 | **Steering Arc Right** | $+v$ | $0$ | Smooth curve around stationary right wheel |
+
+---
+
+## Progress Report
+![Pic 1](assets/images/pic1.jpg)
+
+![Pic 2](assets/images/pic2.jpg)
+
+![Pic 3](assets/images/pic3.jpg)
+
+![Pic 4](assets/images/pic4.jpg)
 
 ---
 
