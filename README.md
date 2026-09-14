@@ -187,6 +187,8 @@ The vehicle uses differential steering logic where motion trajectory is governed
 
 ![Pic 4](assets/images/pic4.jpg)
 
+![Demo](assets/videos/Demo.mp4)
+
 ---
 
 ## 🚀 Future Enhancements
